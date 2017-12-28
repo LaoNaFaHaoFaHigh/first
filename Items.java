@@ -18,6 +18,8 @@ public class Items {
     private Date createtime;
 
     private String detail;
+	
+	private String a;
 
     public Integer getId() {
         return id;
