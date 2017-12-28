@@ -20,6 +20,8 @@ public class Items {
     private String detail;
 	
 	private String a;
+	
+	private String b;
 
     public Integer getId() {
         return id;
