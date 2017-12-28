@@ -22,7 +22,9 @@ public class Items {
 	private String a;
 	
 	private String b;
-
+	
+	private String c;
+	
     public Integer getId() {
         return id;
     }
